@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachintha Sandeepa</h1>
-<h3 align="center">A developer from Sri Lanka</h3>
+<h3 align="center"> From Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachimav&label=views&color=17d3c7&style=flat" alt="sachimav" /> </p>
 
