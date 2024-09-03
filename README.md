@@ -3,11 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachimav&label=views&color=17d3c7&style=flat" alt="sachimav" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m Undergraduate Student
 
 - 📝 I write articles on [https://medium.com/@thiserasachintha](https://medium.com/@thiserasachintha)
-
-- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **thiserasachintha@gmail.com**
 
@@ -23,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sachintha tissera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachintha tissera" height="30" width="40" /></a>
-<a href="https://medium.com/@thiserasachintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thiserasachintha" height="30" width="40" /></a>
+<!---a href="https://medium.com/@thiserasachintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thiserasachintha" height="30" width="40" /></a---->
 </p>
 
 ---
