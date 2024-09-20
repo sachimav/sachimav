@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thiserasachintha@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am BATMAN**
 
 ---
 
