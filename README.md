@@ -12,8 +12,10 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachimav&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachimav&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sachimav/sachimav/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/sachimav/sachimav/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 ---
 
